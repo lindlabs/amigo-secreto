@@ -54,4 +54,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ---
 
-Desarrollado con ❤️ por [Tu Nombre] como parte del desafío de Alura LATAM
+Desarrollado por Lindbergh como parte del desafío de Alura LATAM
